@@ -1,0 +1,6 @@
+//
+// Prefix header for all source files of the 'Pre-PostImporter' target in the 'Pre-PostImporter' project
+//
+
+#ifdef __OBJC__
+#endif
